@@ -5,13 +5,13 @@ title: Hello World, and Mr Hide
 
 Hi folks, 
 
-I've decided to try my hand at publishing things I think about and learn about and do, on a Blog (again!).
+I've decided to try my hand at publishing things I think about, learn about and build, on a Blog (again!).
 
 I'm trying out doing that via GitHub and Jekyll static site generator, following the guide you can find at the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
 In the process, I blew away my minimal previous Github Pages website that had links to few things I'm playing with currently, so I'll paste them here to not loose them.
 
-I plan to reconstruct a bit of history things I learned and did over the past couple of years thinking about and then building them, mainly [flow](https://github.com/andrewdavidmackenzie/flow/) I suspect.
+I plan to reconstruct a bit of history of things I have learned and done over the past couple of years, mainly my [flow project](https://github.com/andrewdavidmackenzie/flow/) I suspect.
 
 So, here goes on another blogging experiment....let's see if I have the time and the stamina to keep it up long enough for it to make sense and be useful for others.
 
