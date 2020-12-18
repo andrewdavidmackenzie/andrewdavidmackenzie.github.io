@@ -3,8 +3,6 @@ layout: post
 title: Hello World, and Mr Hide
 ---
 
-Hi folks, 
-
 I've decided to try my hand at publishing things I think about, learn about and build, on a Blog (again!).
 
 I'm trying out doing that via GitHub and Jekyll static site generator, following the guide you can find at the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.

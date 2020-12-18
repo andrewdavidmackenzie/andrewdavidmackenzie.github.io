@@ -3,7 +3,9 @@ layout: post
 title: And Santa Claus went......Pop!
 ---
 
-Saturday morning was my favourite time of the week at this age, partly because of the regular doses of Wild West escapism reliably delivered by Television. “The Long Ranger” followed by “Champion the Wonder horse” were the flavour of the day. Cowboys were in town. I would run around on my imaginary horse, with my imaginary hat and chaps, firing an imaginary rifle at my imaginary enemies, which included our savage cat and dog.
+Saturday morning was my favourite time of the week at this age.
+
+Partly because of the regular doses of Wild West escapism reliably delivered by Television. “The Long Ranger” followed by “Champion the Wonder horse” were the flavour of the day. Cowboys were in town. I would run around on my imaginary horse, with my imaginary hat and chaps, firing an imaginary rifle at my imaginary enemies, which included our savage cat and dog.
 Christmas approached. Wait! Maybe some of these imaginary things could be had for real, with the help of Santa Claus! A horse seemed out of the question (and was too much work as Julie's one called “Shandy” proved) and who wanted real enemies? That left the must-have apparel of any self-respecting cowboy: hat and chaps, and I needed a weapon to better defend myself than the cap-gun revolver that was my sole defence at the moment.
 
 As I sat writing my letter to Santa, with Mam’s help and advice, I could almost feel the earth shake with the thundering hooves of Champion whisking me across a valley floor behind a pack of Indians fleeing in fear.
