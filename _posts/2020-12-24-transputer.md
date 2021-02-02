@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flow Origins: The Transputer
+title: Flow Origins - The Transputer
 ---
 
 Early in 1984 the UK company INMOS released the innovative [transputer](https://en.wikipedia.org/wiki/Transputer)

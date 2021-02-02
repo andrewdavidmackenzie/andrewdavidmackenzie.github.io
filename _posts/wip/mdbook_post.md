@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rust: Cargo Workspaces add-on
+title: Rust - Cargo Workspaces add-on
 --- 
 
 With my `flow` rust project, I have ended up with a workspace project with eight crates inside it (after moving 

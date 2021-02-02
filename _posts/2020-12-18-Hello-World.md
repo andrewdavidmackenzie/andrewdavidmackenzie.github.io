@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World, and Mr Hide
+title: Structured Analysis and Design
 ---
 
 I've decided to try my hand at publishing things I think about, learn about and build, on a Blog (again!).
