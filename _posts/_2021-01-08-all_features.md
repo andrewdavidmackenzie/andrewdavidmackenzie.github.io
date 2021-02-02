@@ -4,11 +4,11 @@ title: Rust: Cargo Workspaces add-on
 --- 
 
 With my `flow` rust project, I have ended up with a workspace project with eight crates inside it (after moving 
-some libraries into the same crate as the binary that uses them, it would be ten otherwise).
+some libraries into the crate of the binary that uses them, it would be ten otherwise).
 
-This works pretty well for me in rust, with cargo handling most things pretty nicely.
+This works pretty well for me in rust, with cargo handling things nicely.
 
-When combined with cargo's ability to specify a local dependency it can use in--place of
+When combined with cargo's ability to specify a local dependency it can use in-place of
 a specific (published) version:
 ```toml
 [dependencies]
@@ -16,14 +16,16 @@ flowrstructs = {path = "../flowrstructs", version = "0.33.0"}
 ```
 
 This work's nicely for development of multiple crates in parallel. Especially in the earlier
-days of a project when the interfaces between crates are not clear and very unstable and 
-you have to make changes to multiple crates at the same time.
+days of a project when the interfaces between crates are not clear and are unstable and 
+you have to make changes to multiple crates at the same time, and you don't want to be publishing
+lots of intermediate versions on crates.io while you work out how the crates fit together.
 
 There are still a few things you can find missing from cargo when using it in a workspace
-project, but not many and the number is decreasing over time as cargo developers fill in the gaps.
+project. But they are not many, and the number is decreasing over time as cargo developers fill in the gaps.
 
-I have multiple dependencies between crates within the workspace, and I even had to separate out some structs into another
-crate to avoid a cyclic dependency. This dependency hierarchy is three or more levels deep.
+I have multiple dependencies between crates within the workspace, and I had to separate out some structs into a
+new, shared, crate to avoid a cyclic dependency. The crate dependency hierarchy in my project alone
+is three or more levels deep.
 
 When publishing crates, and wishing published crates to use the updated version of the other 
 crates they depend upon, this became a time consuming manual task, and a real PITA.
