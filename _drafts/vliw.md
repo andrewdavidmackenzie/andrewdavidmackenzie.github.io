@@ -1,3 +1,7 @@
+---
+layout: post
+title: Flow Origins - VLIW
+--- 
 # It was 1995 - VLIW
 
 I was a Software Engineer at HP's Barcelona Division working on embedded rendering software

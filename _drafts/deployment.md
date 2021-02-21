@@ -1,3 +1,7 @@
+---
+layout: post
+title: Flow Origins - Deployment across a topology
+--- 
 # Program deployment onto different topologies
 A program (a set of parallel processes communicating over channels) could be deployed on
 a single transputer, in which case the channels were implemented in Software and parallelism

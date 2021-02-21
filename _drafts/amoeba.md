@@ -1,3 +1,7 @@
+---
+layout: post
+title: Flow Origins - Amoeba by Andrew Tannenbaum
+--- 
 # Amoeba
 
 A distributed OS by Andrew Tannenbaum (while at Delf University) that made a collaborating
