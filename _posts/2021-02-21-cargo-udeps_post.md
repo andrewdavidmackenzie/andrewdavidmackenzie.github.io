@@ -107,9 +107,7 @@ All deps seem to have been used.
 Other Targets
 ==
 If you have any dependencies that are only used on specific targets, as described in the output above
-you can check for them using the `--all-targets` option to `cargo`:
-```bash
-```
+you can check for them using the `--all-targets` option to `cargo`.
 
 Optional Dependencies
 ==
