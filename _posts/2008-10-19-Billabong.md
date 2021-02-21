@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Billabong
+tags: personal poetry
 ---
 
 My daughter Martina is now in her third year at primary school, and the amount and frequency of homework has increased enough to the stage where she needs a place to work on it in peace, away from TV etc.

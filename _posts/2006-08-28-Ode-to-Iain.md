@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ode to Iain Gillies
+tags: personal poetry
 ---
 ![iain, Anne and I](../images/andrewiainann.jpg)
 

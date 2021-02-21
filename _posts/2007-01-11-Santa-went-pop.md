@@ -1,6 +1,7 @@
 ---
 layout: post
 title: And Santa Claus went......Pop!
+tags: personal memory
 ---
 
 Saturday morning was my favourite time of the week at this age.

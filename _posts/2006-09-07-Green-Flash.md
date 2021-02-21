@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Green Flash in Lanzarote
+tags: personal experience
 ---
 
 We were staying in a small rented apartment in a collection of the same at Playa Blanca, on the Southern end of the 

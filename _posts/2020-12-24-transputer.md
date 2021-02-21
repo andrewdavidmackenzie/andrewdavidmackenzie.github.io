@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Flow Origins - The Transputer
+tags: flow programming
 ---
 
 Early in 1984 the UK company INMOS released the innovative [transputer](https://en.wikipedia.org/wiki/Transputer)

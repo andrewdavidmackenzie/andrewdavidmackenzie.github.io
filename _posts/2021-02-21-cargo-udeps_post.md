@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rust - Cargo udeps add-on
+tags: rust programming
 --- 
 
 As your rust project evolves, adding or changing the dependencies you use is quite common.
