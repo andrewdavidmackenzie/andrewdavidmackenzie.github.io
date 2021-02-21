@@ -2,9 +2,9 @@
 layout: post
 title: Rust - Cargo udeps add-on
 tags: rust programming
---- 
-
-As your rust project evolves, adding or changing the dependencies you use is quite common.
+---
+As your rust project evolves, adding or changing the dependencies you use is quite common, leading to unused 
+dependencies in your project. The cargo `udeps` add-on is here to help you.
 
 After a while it's easy to get to a point where (especially on a larger project) it's hard to know 
 which dependencies are still being used, and if the entries in your `Cargo.toml` file are all actually

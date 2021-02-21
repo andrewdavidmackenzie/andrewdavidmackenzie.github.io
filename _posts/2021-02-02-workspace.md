@@ -3,6 +3,8 @@ layout: post
 title: Rust - Cargo Workspaces add-on
 tags: rust programming
 --- 
+Publishing a set of inter-dependant crates in a rust cargo workspace project can be time consuming.
+The cargo `workspace` add-on is here to help you.
 
 With my `flow` rust project, I have ended up with a workspace project with eight crates inside it (after moving 
 some libraries into the same crate as the binary that uses them, it would be ten otherwise).
