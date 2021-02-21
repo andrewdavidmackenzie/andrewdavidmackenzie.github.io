@@ -13,15 +13,15 @@ Building those extra dependencies takes time in your local builds and in CI and 
 down. Also, people installing/compiling your crate will also be downloading, installing and building those
 dependencies unnecessarily.
 
-You can manually scan your `Cargo.toml` file and either search for the reference in your code, or try emoving it
-and see if everything still compiles (and tests!) successfully. 
+You can manually scan your `Cargo.toml` file and for each dependency, either search for the reference in your code, 
+or try removing it and see if everything still compiles (and tests!) successfully. 
 
-But that's a laborious process.
+But that's a laborious process!
 
 There is a `cargo` add-on called `udeps` that can help you out here.
 
 Here is it's [crates.io entry](https://crates.io/crates/cargo-udeps)
-```aidl
+```bash
 Find unused dependencies in Cargo.toml.
 
 While compilation of this tool also works on Rust stable, it needs Rust nightly to actually run.
