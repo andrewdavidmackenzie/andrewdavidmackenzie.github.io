@@ -15,7 +15,7 @@ a specific (published) version:
 flowrstructs = {path = "../flowrstructs", version = "0.33.0"}
 ```
 
-This work's nicely for development of multiple crates in parallel. Especially in the earlier
+This works nicely for development of multiple crates in parallel. Especially in the earlier
 days of a project when the interfaces between crates are not clear and very unstable and 
 you have to make changes to multiple crates at the same time.
 
