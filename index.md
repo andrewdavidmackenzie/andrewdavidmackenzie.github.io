@@ -10,7 +10,8 @@ Welcome to my home page. Here you can find:
 ## Flow project
 Flow is my project where I explore the paradigm of dataflow driven programming, written in rust. 
 Here you can find:
-* [The flow guide](http://andrewdavidmackenzie.github.io/flow/) which includes code documentation, generated from the
+* [The flow guide](http://andrewdavidmackenzie.github.io/flow/docs/book_intro.html) which includes code documentation, 
+  generated from the
   source code repo using `mdbook`
 * [flow](https://github.com/andrewdavidmackenzie/flow/) source code repo on GitHub, plus the
   [Github kanban project](https://github.com/andrewdavidmackenzie/flow/projects/2) I use to manage work on it
