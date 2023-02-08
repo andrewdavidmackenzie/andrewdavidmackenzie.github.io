@@ -7,6 +7,14 @@ Welcome to my home page. Here you can find:
 ## Blog
 * [Blog](/blog) - mostly about programming, but also has some random personal stuff
 
+## libproc-rs
+* For some strange reason I decided to tinker with rust bindings to the MacOS X library "libproc" that is used to 
+  get information about running processes in macos/darwin. I published it as `libproc-rs` and a number of others 
+  started using it and I have got a number of external contributions to it (to the extent I hardly recognize it!) 
+    * [Github repo](https://github.com/andrewdavidmackenzie/libproc-rs)
+    * [Crate published on crates.io](https://crates.io/crates/libproc)
+    * [Code docs](https://mackenzie-serres.net/libproc-rs/libproc/index.html)
+
 ## Flow project
 Flow is my project where I explore the paradigm of dataflow driven programming, written in rust. 
 Here you can find:
