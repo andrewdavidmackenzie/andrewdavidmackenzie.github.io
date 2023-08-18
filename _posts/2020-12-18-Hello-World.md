@@ -20,4 +20,4 @@ So, here goes on another blogging experiment....let's see if I have the time and
 
 ## Flow Programming paradigm project
 * [flow Repo](https://github.com/andrewdavidmackenzie/flow/) on GitHub
-* [The Guide](http://andrewdavidmackenzie.github.io/flow/) online docs
+* [The Book](http://andrewdavidmackenzie.github.io/flow/) online book

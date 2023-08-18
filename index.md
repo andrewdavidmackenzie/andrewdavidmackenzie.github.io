@@ -13,14 +13,12 @@ Welcome to my home page. Here you can find:
   started using it and I have got a number of external contributions to it (to the extent I hardly recognize it!) 
     * [Github repo](https://github.com/andrewdavidmackenzie/libproc-rs)
     * [Crate published on crates.io](https://crates.io/crates/libproc)
-    * [Code docs](https://mackenzie-serres.net/libproc-rs/libproc/index.html)
+    * [docs.rs for libproc-rs](https://docs.rs/libproc/0.14.1/libproc/)
 
 ## Flow project
 Flow is my project where I explore the paradigm of dataflow driven programming, written in rust. 
 Here you can find:
-* [The flow guide](http://andrewdavidmackenzie.github.io/flow/docs/book_intro.html) which includes code documentation, 
-  generated from the
-  source code repo using `mdbook`
+* [The flow book](http://andrewdavidmackenzie.github.io/flow/book/book_intro.html) describing the project and how to use it.
 * [flow](https://github.com/andrewdavidmackenzie/flow/) source code repo on GitHub, plus the
   [Github kanban project](https://github.com/andrewdavidmackenzie/flow/projects/2) I use to manage work on it
   
