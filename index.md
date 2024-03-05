@@ -31,3 +31,18 @@ Here you can find:
 [comment]: <> (* TestCast &#40;[Android App on PlayStore]&#40;https://play.google.com/store/sapps/details?id=net.mackenzie.testcast&#41; and [receiver app]&#40;https://github.com/andrewdavidmackenzie/testcast&#41;&#41;)
 
 [comment]: <> (* SnakeCast &#40;[Android App on PlayStore]&#40;https://play.google.com/store/search?q=snakecast&#41; and [receiver app]&#40;https://github.com/andrewdavidmackenzie/snakecast&#41;&#41;)
+
+## Pingr project
+A fun project to learn a bunch of stuff (almost all in rust) about:
+* Cloudflare Pages projects, including Functions. Building a website deployed to Pages as a SPA, using Leptos rust 
+  web framework
+* Cloudflare workers, for WebAssembly, built in rust using workers-rs crate
+* Cloudflare DurableObjects, used from the worker
+* Cloudflare Key-Value store that stores data from the worker 
+* Writing a cross platform (macos, linux, windows, RaspberryPi OS for Pi4, Pi400, and Pi Zero W) wi-fi monitoring 
+  program that reports to worker via API
+* Writing an embedded wi-fi monitor in rust using embassy on Pi Pico W that reports to worker via API
+
+The UI for setting up wi-ifi monitoring and tracking status is at [Pingr Home Page](https://pingr.mackenzie-serres.net)
+
+If interested, you can view the [Source Code](https://github.com/andrewdavidmackenzie/pingr)
