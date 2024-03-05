@@ -33,12 +33,14 @@ Here you can find:
 [comment]: <> (* SnakeCast &#40;[Android App on PlayStore]&#40;https://play.google.com/store/search?q=snakecast&#41; and [receiver app]&#40;https://github.com/andrewdavidmackenzie/snakecast&#41;&#41;)
 
 ## Pingr project
-A fun project to learn a bunch of stuff (almost all in rust) about:
-* Cloudflare Pages projects, including Functions. Building a website deployed to Pages as a SPA, using Leptos rust 
-  web framework
-* Cloudflare workers, for WebAssembly, built in rust using workers-rs crate
-* Cloudflare DurableObjects, used from the worker
-* Cloudflare Key-Value store that stores data from the worker 
+A fun project to learn a bunch of stuff (almost all in rust):
+* Cloudflare DurableObjects that tracks wi-fi devices via reports sent from devices (see below) and enqueues state 
+  changes into a Cloudflare Queue
+* Cloudflare worker (written in rust using workers-rs crate, deployed in WebAssembly) that pulls device state 
+  changes from a Queue and updates device and connection states in the KV store (blow)
+* Cloudflare Key-Value store that stores data for the worker, and from the UI
+* Cloudflare Pages projects, including Functions. Building a website deployed to Pages as a SPA, using Leptos rust
+  web framework, that reads and writes data to/from the KV store using Functions
 * Writing a cross platform (macos, linux, windows, RaspberryPi OS for Pi4, Pi400, and Pi Zero W) wi-fi monitoring 
   program that reports to worker via API
 * Writing an embedded wi-fi monitor in rust using embassy on Pi Pico W that reports to worker via API
