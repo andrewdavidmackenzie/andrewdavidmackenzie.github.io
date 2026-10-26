@@ -57,8 +57,7 @@ All network requests use HTTPS.
 
 ## Open Source
 
-Fotr is open source software. You can review the source code at
-[github.com/andrewdavidmackenzie/fotr](https://github.com/andrewdavidmackenzie/fotr).
+Fotr is open source software licensed under the MIT License.
 
 ## Contact
 

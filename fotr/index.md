@@ -33,8 +33,6 @@ Fotr is available for macOS, Linux, and Windows from the
 
 Fotr is open source software licensed under the MIT License.
 
-- [GitHub Repository](https://github.com/andrewdavidmackenzie/fotr)
-
 ## Privacy Policy
 
 See the [Privacy Policy](/fotr/privacy) for details on how Fotr handles your data.
@@ -45,5 +43,4 @@ See the [Terms of Service](/fotr/terms) for usage terms.
 
 ## Support
 
-For bug reports and feature requests, please use the
-[GitHub Issues](https://github.com/andrewdavidmackenzie/fotr/issues) page.
+For bug reports and feature requests, contact: andrew@mackenzie-serres.net

@@ -9,12 +9,10 @@ A local photo viewing application for Google Photos Takeout archives and cloud p
 Browse your photos in a timeline, on a map, in albums, search by name or date, sync from
 Google Photos, and more. Written in Rust with the Iced GUI framework.
   * [Fotr Site](/fotr)
-  * [GitHub repo](https://github.com/andrewdavidmackenzie/fotr)
 
 ## Moovee - Movie Screening Search
 Find movie screenings near you. Search across cinemas and filter by movie, date, time, and location.
   * [moovee.info](https://moovee.info)
-  * [GitHub repo](https://github.com/andrewdavidmackenzie/moovee.info)
 
 ## Pigg - GUI and CLI Remote control of Raspberry Pi GPIO
 A project I started and maintain that provides a GUI for remote control of the GPIO hardware of
