@@ -74,6 +74,14 @@ Photos already downloaded to your local archive remain on your machine.
 - Fotr is [open source](https://github.com/andrewdavidmackenzie/fotr) (MIT License)
   -- you can inspect exactly what the code does
 
+### Limited Use disclosure
+
+Fotr's use and transfer to any other app of information received from Google
+APIs will adhere to the
+[Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy),
+including the Limited Use requirements. Fotr does not use Google user data to
+create, train, or improve generalized or foundational AI/ML models.
+
 For full details, see our [Privacy Policy](/fotr/privacy).
 
 ## Screenshots

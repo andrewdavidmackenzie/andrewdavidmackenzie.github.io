@@ -111,6 +111,21 @@ After disconnecting and revoking access, Fotr cannot access your Google Photos
 account. Previously downloaded files remain on your local disk until you
 manually delete them.
 
+## Google API Services Limited Use Disclosure
+
+Fotr's use and transfer to any other app of information received from Google
+APIs will adhere to the
+[Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy),
+including the Limited Use requirements. Specifically:
+
+- Fotr only uses Google user data for the purposes described in this policy
+  (local display, indexing, and thumbnailing of your photos)
+- Fotr does not transfer Google user data to any third party
+- Fotr does not use Google user data for advertising or marketing purposes
+- Fotr does not use Google user data to create, train, or improve generalized
+  or foundational AI/ML models
+- Fotr allows users to revoke access and delete all stored Google user data
+
 ## Local Photo Archives
 
 In addition to the optional Google Photos integration, Fotr accesses local
